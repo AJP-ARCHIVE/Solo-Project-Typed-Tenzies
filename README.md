@@ -38,11 +38,11 @@ npm run dev
 
 ## Usage/Examples
 Working TypeScript version
-![App Screenshot](./assets/screenshots/TenziesGame.PNG)
+![App Screenshot](./src/assets/screenshots/TenziesGame.PNG)
 
 
 ### App Demo
-![App Screenshot](./assets/screenshots/TenziesDemo.gif)
+![App Screenshot](./src/assets/screenshots/TenziesDemo.gif)
 
 
 
