@@ -38,6 +38,7 @@ npm run dev
 
 ## Usage/Examples
 Working TypeScript version
+
 ![App Screenshot](./src/assets/screenshots/TenziesGame.PNG)
 
 
